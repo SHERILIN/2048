@@ -378,7 +378,7 @@ hr {
       .tile.tile-256 .tile-inner {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
-    color: #f9f6f2;
+    color: rgb(0,0,0,0);
     background: url("https://img.ltn.com.tw/Upload/liveNews/BigPic/600_phpJPUyU9.jpg");
     background-size:cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
@@ -387,8 +387,9 @@ hr {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
-    color: #f9f6f2;
-    background: #edc53f;
+    color: rgb(0,0,0,0);
+    background:url("https://cc.tvbs.com.tw/img/_data/i/upload/2018/01/03/20180103143923-e3ddf2c7-me.jpg");
+    background-size:cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
