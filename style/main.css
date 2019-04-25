@@ -355,13 +355,13 @@ hr {
 }
   .tile.tile-64 .tile-inner {
     color:rgb(0,0,0,0);
-    background: url("http://www.dailycold.tw/wp-content/uploads/2016/11/15-100-1.jpg");
- background-size:cover;
+    background: url("");
+    background-size:cover;
 }
    
 .tile.tile-128 .tile-inner {
     color:rgb(0,0,0,0);
-    background:url("");
+    background:url("http://www.dailycold.tw/wp-content/uploads/2016/11/15-100-1.jpg");
     background-size:cover;
   box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
